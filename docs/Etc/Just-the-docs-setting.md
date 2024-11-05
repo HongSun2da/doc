@@ -1,5 +1,6 @@
 ---
 title: Just The Docs Jekyll theme
+parent: Etc Components
 nav_order: 1
 ---
 
@@ -18,7 +19,7 @@ Jekyll theme중에 Just The Docs을 이용해 GitHub Pages에 나만의 Document
 ---
 
 
-## 사이트 로그
+## Jekyll theme is...?
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
