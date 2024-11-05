@@ -1,7 +1,7 @@
 ---
 title: MySQL
 parent: Data Base
-nav_order: 1
+nav_order: 30
 ---
 
 # MySQL

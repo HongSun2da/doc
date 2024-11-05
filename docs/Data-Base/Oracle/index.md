@@ -1,7 +1,7 @@
 ---
 title: Oracle
 parent: Data Base
-nav_order: 1
+nav_order: 20
 ---
 
 # Oracle
