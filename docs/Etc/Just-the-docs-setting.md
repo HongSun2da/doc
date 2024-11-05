@@ -7,7 +7,7 @@ nav_order: 1
 # Just The Docs Jekyll theme GitHub Pages Setting
 {: .no_toc }
 
-Jekyll theme중에 Just The Docs을 이용해 GitHub Pages에 나만의 Document 사이트 만ㄷ르기
+Jekyll theme중에 Just The Docs을 이용해 GitHub Pages에 나만의 Document 사이트 만들기
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -20,6 +20,8 @@ Jekyll theme중에 Just The Docs을 이용해 GitHub Pages에 나만의 Document
 
 
 ## Jekyll theme is...?
+
+지킬([Jekyll](https://jekyllrb.com))은 설치형 블로그 중 정적 사이트 생성기의 하나이고 Ruby를 기반으로 만들어져 있다. 마크다운을 사용해서 포스트를 작성하면 HTML으로 변환하여 정적 사이트를 만들어준다.
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
