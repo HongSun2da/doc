@@ -1,6 +1,7 @@
 ---
 title: Oracle Init
 parent: Oracle
+nav_order: 1
 ---
 
 # Oracle Init

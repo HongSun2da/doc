@@ -1,6 +1,7 @@
 ---
 title: MS-SQL Init
 parent: MS-SQL
+nav_order: 1
 ---
 
 # MS-SQL Init

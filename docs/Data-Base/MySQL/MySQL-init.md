@@ -1,6 +1,7 @@
 ---
 title: MySQL Init
 parent: MySQL
+nav_order: 1
 ---
 
 # MySQL Init
