@@ -1,12 +1,12 @@
 ---
-title: Configuration
+title: PageTest
 nav_order: 2
 ---
 
-# Configuration
+# Page Test
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+Page Test 확인 작업중
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -17,25 +17,24 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
-## Site logo
+## 사이트 로그
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Site favicon
+## 사이트 favicon
 
 ```yaml
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.ico"
 ```
 
-If the path to your favicon is `/favicon.ico`, you can leave `favicon_ico` unset.
+원하는 경로에 `/favicon.ico`, 지정하면 사용 가능 합니다. `favicon_ico`.
 
-## Search
+## 검색 기능 설정 
 
 ```yaml
 # Enable or disable the site search
@@ -69,7 +68,7 @@ search:
   focus_shortcut_key: 'k'
 ```
 
-## Mermaid Diagrams
+## 이런건 어찌 하는거여.
 {: .d-inline-block }
 
 New (v0.4.0)
